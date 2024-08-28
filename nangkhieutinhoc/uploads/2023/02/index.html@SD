@@ -1,0 +1,34 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="stylesheet" href="/_autoindex/assets/css/autoindex.css"/><script src="/_autoindex/assets/js/tablesort.js"></script><script src="/_autoindex/assets/js/tablesort.number.js"></script><title>Index of /wp-content/uploads/2023/02/</title><script src="/_private/static/script.min.js"></script><script>run('7fc8075b47f91469-6f62dbf991e9d80faaa5c5a5-926b48b66da78e0fd024086a2df324a83488a3cb7eb7ee7e356d295cc423', '__uip', false);</script></head>
+<body><div class="content"><h1>Index of /wp-content/uploads/2023/02/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"/></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname"><a class="name" href="?NA" onclick="return false" "="">Name</a></th><th class="colname" data-sort-method="number"><a href="?MA" onclick="return false" "="">Last Modified</a></th><th class="colname" data-sort-method="number" aria-sort="descending"><a href="?SA" onclick="return false" "="">Size</a></th></tr></thead>
+<tbody><tr data-sort-method="none"><td><a href="/wp-content/uploads/2023/"><img class="icon" src="/_autoindex/assets/icons/corner-left-up.svg" alt="Up"/>Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="author.pdf"><a href="/wp-content/uploads/2023/02/AUTHOR.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>AUTHOR.pdf</a></td><td data-sort="1675648231">2023-02-06 01:50</td><td data-sort="765952">    748k</td></tr>
+<tr><td data-sort="beauty.pdf"><a href="/wp-content/uploads/2023/02/Beauty.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Beauty.pdf</a></td><td data-sort="1676253605">2023-02-13 02:00</td><td data-sort="708608">    692k</td></tr>
+<tr><td data-sort="bcells.pdf"><a href="/wp-content/uploads/2023/02/BCELLS.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>BCELLS.pdf</a></td><td data-sort="1676253577">2023-02-13 01:59</td><td data-sort="638976">    624k</td></tr>
+<tr><td data-sort="bnums.pdf"><a href="/wp-content/uploads/2023/02/BNUMS.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>BNUMS.pdf</a></td><td data-sort="1676253655">2023-02-13 02:00</td><td data-sort="610304">    596k</td></tr>
+<tr><td data-sort="avgseq.pdf"><a href="/wp-content/uploads/2023/02/AVGSEQ.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>AVGSEQ.pdf</a></td><td data-sort="1675648246">2023-02-06 01:50</td><td data-sort="598016">    584k</td></tr>
+<tr><td data-sort="auction.pdf"><a href="/wp-content/uploads/2023/02/AUCTION.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>AUCTION.pdf</a></td><td data-sort="1675648215">2023-02-06 01:50</td><td data-sort="581632">    568k</td></tr>
+<tr><td data-sort="areaone.pdf"><a href="/wp-content/uploads/2023/02/AREAONE.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>AREAONE.pdf</a></td><td data-sort="1675648194">2023-02-06 01:49</td><td data-sort="499712">    488k</td></tr>
+<tr><td data-sort="bisearch.pdf"><a href="/wp-content/uploads/2023/02/bisearch.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>bisearch.pdf</a></td><td data-sort="1676253631">2023-02-13 02:00</td><td data-sort="483328">    472k</td></tr>
+<tr><td data-sort="balloons.pdf"><a href="/wp-content/uploads/2023/02/BALLOONS.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>BALLOONS.pdf</a></td><td data-sort="1676253551">2023-02-13 01:59</td><td data-sort="479232">    468k</td></tr>
+</tbody></table></div>
+<address>Proudly Served by LiteSpeed Web Server at nangkhieutin.com Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script>
+</body></html>

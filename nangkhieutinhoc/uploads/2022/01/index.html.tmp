@@ -1,0 +1,35 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="stylesheet" href="/_autoindex/assets/css/autoindex.css"/><script src="/_autoindex/assets/js/tablesort.js"></script><script src="/_autoindex/assets/js/tablesort.number.js"></script><title>Index of /wp-content/uploads/2022/01/</title><script src="/_private/static/script.min.js"></script><script>run('734ec7b20d5eb570-083fce6b120fb6f29b2bd757-39eab55c0690e7eaef451032c3a2c4d27a5befa02b3d6bd867145435cfa2', '__uip', false);</script></head>
+<body><div class="content"><h1>Index of /wp-content/uploads/2022/01/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"/></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname" aria-sort="ascending"><a class="name" href="?ND" onclick="return false" "="">Name</a></th><th class="colname" data-sort-method="number"><a href="?MA" onclick="return false" "="">Last Modified</a></th><th class="colname" data-sort-method="number"><a href="?SA" onclick="return false" "="">Size</a></th></tr></thead>
+<tbody><tr data-sort-method="none"><td><a href="/wp-content/uploads/2022/"><img class="icon" src="/_autoindex/assets/icons/corner-left-up.svg" alt="Up"/>Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="cropped-nẵng-150x150.jpg"><a href="/wp-content/uploads/2022/01/cropped-N%E1%BA%B5ng-150x150.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>cropped-Nẵng-150x150.jpg</a></td><td data-sort="1642089501">2022-01-13 15:58</td><td data-sort="8192">      8k</td></tr>
+<tr><td data-sort="cropped-nẵng-230x300.jpg"><a href="/wp-content/uploads/2022/01/cropped-N%E1%BA%B5ng-230x300.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>cropped-Nẵng-230x300.jpg</a></td><td data-sort="1642089501">2022-01-13 15:58</td><td data-sort="16384">     16k</td></tr>
+<tr><td data-sort="cropped-nẵng.jpg"><a href="/wp-content/uploads/2022/01/cropped-N%E1%BA%B5ng.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>cropped-Nẵng.jpg</a></td><td data-sort="1642089501">2022-01-13 15:58</td><td data-sort="16384">     16k</td></tr>
+<tr><td data-sort="twins.pdf"><a href="/wp-content/uploads/2022/01/TWINS.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>TWINS.pdf</a></td><td data-sort="1643078251">2022-01-25 02:37</td><td data-sort="151552">    148k</td></tr>
+<tr><td data-sort="Đà-nẵng-1024x768.jpg"><a href="/wp-content/uploads/2022/01/%C4%90%C3%A0-N%E1%BA%B5ng-1024x768.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>Đà-Nẵng-1024x768.jpg</a></td><td data-sort="1642089440">2022-01-13 15:57</td><td data-sort="139264">    136k</td></tr>
+<tr><td data-sort="Đà-nẵng-1200x900.jpg"><a href="/wp-content/uploads/2022/01/%C4%90%C3%A0-N%E1%BA%B5ng-1200x900.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>Đà-Nẵng-1200x900.jpg</a></td><td data-sort="1642089440">2022-01-13 15:57</td><td data-sort="176128">    172k</td></tr>
+<tr><td data-sort="Đà-nẵng-150x150.jpg"><a href="/wp-content/uploads/2022/01/%C4%90%C3%A0-N%E1%BA%B5ng-150x150.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>Đà-Nẵng-150x150.jpg</a></td><td data-sort="1642089439">2022-01-13 15:57</td><td data-sort="8192">      8k</td></tr>
+<tr><td data-sort="Đà-nẵng-300x225.jpg"><a href="/wp-content/uploads/2022/01/%C4%90%C3%A0-N%E1%BA%B5ng-300x225.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>Đà-Nẵng-300x225.jpg</a></td><td data-sort="1642089439">2022-01-13 15:57</td><td data-sort="20480">     20k</td></tr>
+<tr><td data-sort="Đà-nẵng-768x576.jpg"><a href="/wp-content/uploads/2022/01/%C4%90%C3%A0-N%E1%BA%B5ng-768x576.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>Đà-Nẵng-768x576.jpg</a></td><td data-sort="1642089440">2022-01-13 15:57</td><td data-sort="86016">     84k</td></tr>
+<tr><td data-sort="Đà-nẵng.jpg"><a href="/wp-content/uploads/2022/01/%C4%90%C3%A0-N%E1%BA%B5ng.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>Đà-Nẵng.jpg</a></td><td data-sort="1642089439">2022-01-13 15:57</td><td data-sort="512000">    500k</td></tr>
+</tbody></table></div>
+<address>Proudly Served by LiteSpeed Web Server at nangkhieutin.com Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script>
+</body></html>

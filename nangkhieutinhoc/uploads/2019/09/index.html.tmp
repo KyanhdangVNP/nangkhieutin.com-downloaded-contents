@@ -1,0 +1,31 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="stylesheet" href="/_autoindex/assets/css/autoindex.css"/><script src="/_autoindex/assets/js/tablesort.js"></script><script src="/_autoindex/assets/js/tablesort.number.js"></script><title>Index of /wp-content/uploads/2019/09/</title><script src="/_private/static/script.min.js"></script><script>run('31462e7708516f73-a9d85293aa3bfd207058c7a0-c68070f9a9a26ab0aaae82d313aac31ff4a1d093341cf9c0e245022b9eb9', '__uip', false);</script></head>
+<body><div class="content"><h1>Index of /wp-content/uploads/2019/09/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"/></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname" aria-sort="ascending"><a class="name" href="?ND" onclick="return false" "="">Name</a></th><th class="colname" data-sort-method="number"><a href="?MA" onclick="return false" "="">Last Modified</a></th><th class="colname" data-sort-method="number"><a href="?SA" onclick="return false" "="">Size</a></th></tr></thead>
+<tbody><tr data-sort-method="none"><td><a href="/wp-content/uploads/2019/"><img class="icon" src="/_autoindex/assets/icons/corner-left-up.svg" alt="Up"/>Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="fb_img_1568541077642-1024x536.jpg"><a href="/wp-content/uploads/2019/09/FB_IMG_1568541077642-1024x536.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>FB_IMG_1568541077642-1024x536.jpg</a></td><td data-sort="1568541204">2019-09-15 09:53</td><td data-sort="106496">    104k</td></tr>
+<tr><td data-sort="fb_img_1568541077642-1200x628.jpg"><a href="/wp-content/uploads/2019/09/FB_IMG_1568541077642-1200x628.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>FB_IMG_1568541077642-1200x628.jpg</a></td><td data-sort="1568541204">2019-09-15 09:53</td><td data-sort="131072">    128k</td></tr>
+<tr><td data-sort="fb_img_1568541077642-150x150.jpg"><a href="/wp-content/uploads/2019/09/FB_IMG_1568541077642-150x150.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>FB_IMG_1568541077642-150x150.jpg</a></td><td data-sort="1568541204">2019-09-15 09:53</td><td data-sort="12288">     12k</td></tr>
+<tr><td data-sort="fb_img_1568541077642-300x157.jpg"><a href="/wp-content/uploads/2019/09/FB_IMG_1568541077642-300x157.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>FB_IMG_1568541077642-300x157.jpg</a></td><td data-sort="1568541204">2019-09-15 09:53</td><td data-sort="16384">     16k</td></tr>
+<tr><td data-sort="fb_img_1568541077642-768x402.jpg"><a href="/wp-content/uploads/2019/09/FB_IMG_1568541077642-768x402.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>FB_IMG_1568541077642-768x402.jpg</a></td><td data-sort="1568541204">2019-09-15 09:53</td><td data-sort="69632">     68k</td></tr>
+<tr><td data-sort="fb_img_1568541077642.jpg"><a href="/wp-content/uploads/2019/09/FB_IMG_1568541077642.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>FB_IMG_1568541077642.jpg</a></td><td data-sort="1568541204">2019-09-15 09:53</td><td data-sort="94208">     92k</td></tr>
+</tbody></table></div>
+<address>Proudly Served by LiteSpeed Web Server at nangkhieutin.com Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script>
+</body></html>

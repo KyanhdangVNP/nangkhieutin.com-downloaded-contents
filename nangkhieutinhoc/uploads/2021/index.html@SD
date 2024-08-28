@@ -1,0 +1,37 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="stylesheet" href="/_autoindex/assets/css/autoindex.css"/><script src="/_autoindex/assets/js/tablesort.js"></script><script src="/_autoindex/assets/js/tablesort.number.js"></script><title>Index of /wp-content/uploads/2021/</title><script src="/_private/static/script.min.js"></script><script>run('a055ebbc274678b8-fdd754c5387d4996f3e6af9e-b6b0a6ab1001074b6c837909e6c2401a5bb54a15878ccf6fd6bcc3bb78fc', '__uip', false);</script></head>
+<body><div class="content"><h1>Index of /wp-content/uploads/2021/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"/></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname"><a class="name" href="?NA" onclick="return false" "="">Name</a></th><th class="colname" data-sort-method="number"><a href="?MA" onclick="return false" "="">Last Modified</a></th><th class="colname" data-sort-method="number" aria-sort="descending"><a href="?SA" onclick="return false" "="">Size</a></th></tr></thead>
+<tbody><tr data-sort-method="none"><td><a href="/wp-content/uploads/"><img class="icon" src="/_autoindex/assets/icons/corner-left-up.svg" alt="Up"/>Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="*12"><a href="/wp-content/uploads/2021/12/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory"/>12</a></td><td data-sort="63958066">2021-12-29 06:07</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*11"><a href="/wp-content/uploads/2021/11/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory"/>11</a></td><td data-sort="61350181">2021-11-29 01:43</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*10"><a href="/wp-content/uploads/2021/10/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory"/>10</a></td><td data-sort="62991001">2021-12-18 01:30</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*09"><a href="/wp-content/uploads/2021/09/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory"/>09</a></td><td data-sort="56701666">2021-10-06 06:27</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*08"><a href="/wp-content/uploads/2021/08/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory"/>08</a></td><td data-sort="52979950">2021-08-24 04:39</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*07"><a href="/wp-content/uploads/2021/07/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory"/>07</a></td><td data-sort="50576867">2021-07-27 09:07</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*06"><a href="/wp-content/uploads/2021/06/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory"/>06</a></td><td data-sort="48147117">2021-06-29 06:11</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*05"><a href="/wp-content/uploads/2021/05/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory"/>05</a></td><td data-sort="44519671">2021-05-18 06:34</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*04"><a href="/wp-content/uploads/2021/04/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory"/>04</a></td><td data-sort="42090824">2021-04-20 03:53</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*03"><a href="/wp-content/uploads/2021/03/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory"/>03</a></td><td data-sort="40359177">2021-03-31 02:52</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*02"><a href="/wp-content/uploads/2021/02/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory"/>02</a></td><td data-sort="37866147">2021-03-02 06:22</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*01"><a href="/wp-content/uploads/2021/01/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory"/>01</a></td><td data-sort="34841707">2021-01-26 06:15</td><td data-sort="-1">-</td></tr>
+</tbody></table></div>
+<address>Proudly Served by LiteSpeed Web Server at nangkhieutin.com Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script>
+</body></html>

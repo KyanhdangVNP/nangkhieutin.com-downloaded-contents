@@ -1,0 +1,32 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="stylesheet" href="/_autoindex/assets/css/autoindex.css"/><script src="/_autoindex/assets/js/tablesort.js"></script><script src="/_autoindex/assets/js/tablesort.number.js"></script><title>Index of /wp-content/uploads/2022/12/</title><script src="/_private/static/script.min.js"></script><script>run('7309edb02171d502-bd708ca066eec36df797a06f-e2861228a9560f3a429c0de2fa97f9650ec6a11d4a96e584327e536cbb27', '__uip', false);</script></head>
+<body><div class="content"><h1>Index of /wp-content/uploads/2022/12/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"/></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname" aria-sort="ascending"><a class="name" href="?ND" onclick="return false" "="">Name</a></th><th class="colname" data-sort-method="number"><a href="?MA" onclick="return false" "="">Last Modified</a></th><th class="colname" data-sort-method="number"><a href="?SA" onclick="return false" "="">Size</a></th></tr></thead>
+<tbody><tr data-sort-method="none"><td><a href="/wp-content/uploads/2022/"><img class="icon" src="/_autoindex/assets/icons/corner-left-up.svg" alt="Up"/>Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="bai-tap-chuoi-ki-tu.pdf"><a href="/wp-content/uploads/2022/12/Bai-tap-chuoi-ki-tu.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Bai-tap-chuoi-ki-tu.pdf</a></td><td data-sort="1670190161">2022-12-04 21:42</td><td data-sort="401408">    392k</td></tr>
+<tr><td data-sort="bcells.pdf"><a href="/wp-content/uploads/2022/12/BCELLS.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>BCELLS.pdf</a></td><td data-sort="1670395805">2022-12-07 06:50</td><td data-sort="643072">    628k</td></tr>
+<tr><td data-sort="de-kiem-tra-hki-10-toán-2-2022-2023.pdf"><a href="/wp-content/uploads/2022/12/De-kiem-tra-HKI-10-To%C3%A1n-2-2022-2023.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>De-kiem-tra-HKI-10-Toán-2-2022-2023.pdf</a></td><td data-sort="1671243268">2022-12-17 02:14</td><td data-sort="507904">    496k</td></tr>
+<tr><td data-sort="gcd.pdf"><a href="/wp-content/uploads/2022/12/GCD.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>GCD.pdf</a></td><td data-sort="1671237198">2022-12-17 00:33</td><td data-sort="479232">    468k</td></tr>
+<tr><td data-sort="lcm.pdf"><a href="/wp-content/uploads/2022/12/LCM.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>LCM.pdf</a></td><td data-sort="1671237200">2022-12-17 00:33</td><td data-sort="479232">    468k</td></tr>
+<tr><td data-sort="mix.pdf"><a href="/wp-content/uploads/2022/12/MIX.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>MIX.pdf</a></td><td data-sort="1671237229">2022-12-17 00:33</td><td data-sort="589824">    576k</td></tr>
+<tr><td data-sort="password.pdf"><a href="/wp-content/uploads/2022/12/PASSWORD.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>PASSWORD.pdf</a></td><td data-sort="1670395847">2022-12-07 06:50</td><td data-sort="684032">    668k</td></tr>
+</tbody></table></div>
+<address>Proudly Served by LiteSpeed Web Server at nangkhieutin.com Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script>
+</body></html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="stylesheet" href="/_autoindex/assets/css/autoindex.css"/><script src="/_autoindex/assets/js/tablesort.js"></script><script src="/_autoindex/assets/js/tablesort.number.js"></script><title>Index of /wp-content/uploads/2018/11/</title><script src="/_private/static/script.min.js"></script><script>run('877bdea5fdec5193-74c877d6d2c21a27c0281acd-12fefd7ab16194b885bc0a7f24d0f6eda82e9104874d6e7c4bcbca9dffd3', '__uip', false);</script></head>
+<body><div class="content"><h1>Index of /wp-content/uploads/2018/11/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"/></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname"><a class="name" href="?NA" onclick="return false" "="">Name</a></th><th class="colname" data-sort-method="number" aria-sort="descending"><a href="?MA" onclick="return false" "="">Last Modified</a></th><th class="colname" data-sort-method="number"><a href="?SA" onclick="return false" "="">Size</a></th></tr></thead>
+<tbody><tr data-sort-method="none"><td><a href="/wp-content/uploads/2018/"><img class="icon" src="/_autoindex/assets/icons/corner-left-up.svg" alt="Up"/>Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="bai-tap-mang-hai-chieu.pdf"><a href="/wp-content/uploads/2018/11/Bai-tap-mang-hai-chieu.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Bai-tap-mang-hai-chieu.pdf</a></td><td data-sort="1543279614">2018-11-27 00:46</td><td data-sort="503808">    492k</td></tr>
+<tr><td data-sort="chia-de-tri.pdf"><a href="/wp-content/uploads/2018/11/Chia-De-Tri.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Chia-De-Tri.pdf</a></td><td data-sort="1542057711">2018-11-12 21:21</td><td data-sort="901120">    880k</td></tr>
+<tr><td data-sort="roi-2018-day-1-task-1-version-1.pdf"><a href="/wp-content/uploads/2018/11/ROI-2018-Day-1-Task-1-version-1.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>ROI-2018-Day-1-Task-1-version-1.pdf</a></td><td data-sort="1541884776">2018-11-10 21:19</td><td data-sort="290816">    284k</td></tr>
+<tr><td data-sort="roi-2018-day-1-task-1.pdf"><a href="/wp-content/uploads/2018/11/ROI-2018-Day-1-Task-1.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>ROI-2018-Day-1-Task-1.pdf</a></td><td data-sort="1541883821">2018-11-10 21:03</td><td data-sort="278528">    272k</td></tr>
+<tr><td data-sort="roi-2018-day-1-task-1-150x150.png"><a href="/wp-content/uploads/2018/11/ROI-2018-Day-1-Task-1-150x150.png"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>ROI-2018-Day-1-Task-1-150x150.png</a></td><td data-sort="1541883561">2018-11-10 20:59</td><td data-sort="32768">     32k</td></tr>
+<tr><td data-sort="roi-2018-day-1-task-1.png"><a href="/wp-content/uploads/2018/11/ROI-2018-Day-1-Task-1.png"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>ROI-2018-Day-1-Task-1.png</a></td><td data-sort="1541883561">2018-11-10 20:59</td><td data-sort="143360">    140k</td></tr>
+<tr><td data-sort="roi-2018-day-1-task-1-232x300.png"><a href="/wp-content/uploads/2018/11/ROI-2018-Day-1-Task-1-232x300.png"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>ROI-2018-Day-1-Task-1-232x300.png</a></td><td data-sort="1541883561">2018-11-10 20:59</td><td data-sort="90112">     88k</td></tr>
+<tr><td data-sort="curriculum-vitae-dao-duy-nam-2018.pdf"><a href="/wp-content/uploads/2018/11/Curriculum-Vitae-Dao-Duy-Nam-2018.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Curriculum-Vitae-Dao-Duy-Nam-2018.pdf</a></td><td data-sort="1541542359">2018-11-06 22:12</td><td data-sort="331776">    324k</td></tr>
+</tbody></table></div>
+<address>Proudly Served by LiteSpeed Web Server at nangkhieutin.com Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script>
+</body></html>

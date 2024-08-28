@@ -1,0 +1,32 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="stylesheet" href="/_autoindex/assets/css/autoindex.css"/><script src="/_autoindex/assets/js/tablesort.js"></script><script src="/_autoindex/assets/js/tablesort.number.js"></script><title>Index of /wp-content/uploads/2019/01/</title><script src="/_private/static/script.min.js"></script><script>run('d58f4abe2057e0d4-13d863926e86d68b8f42934b-afe132391df75e4d600062c75823edb79af2bcf17470a204714209295c5b', '__uip', false);</script></head>
+<body><div class="content"><h1>Index of /wp-content/uploads/2019/01/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"/></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname" aria-sort="ascending"><a class="name" href="?ND" onclick="return false" "="">Name</a></th><th class="colname" data-sort-method="number"><a href="?MA" onclick="return false" "="">Last Modified</a></th><th class="colname" data-sort-method="number"><a href="?SA" onclick="return false" "="">Size</a></th></tr></thead>
+<tbody><tr data-sort-method="none"><td><a href="/wp-content/uploads/2019/"><img class="icon" src="/_autoindex/assets/icons/corner-left-up.svg" alt="Up"/>Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="de-thi-quoc-gia-mon-tin-hoc-nam-2019-ngay-1.pdf"><a href="/wp-content/uploads/2019/01/De-thi-quoc-gia-mon-Tin-hoc-nam-2019-ngay-1.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>De-thi-quoc-gia-mon-Tin-hoc-nam-2019-ngay-1.pdf</a></td><td data-sort="1547593951">2019-01-15 23:12</td><td data-sort="4194304">   4096k</td></tr>
+<tr><td data-sort="de-thi-quoc-gia-mon-tin-hoc-nam-2019-ngay-2.pdf"><a href="/wp-content/uploads/2019/01/De-thi-quoc-gia-mon-Tin-hoc-nam-2019-ngay-2.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>De-thi-quoc-gia-mon-Tin-hoc-nam-2019-ngay-2.pdf</a></td><td data-sort="1547593962">2019-01-15 23:12</td><td data-sort="3964928">   3872k</td></tr>
+<tr><td data-sort="lab-06.pdf"><a href="/wp-content/uploads/2019/01/Lab-06.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Lab-06.pdf</a></td><td data-sort="1547687881">2019-01-17 01:18</td><td data-sort="217088">    212k</td></tr>
+<tr><td data-sort="thoi-khoa-bieu-hk2-ap-dung-tu-02-01-2019-150x150.png"><a href="/wp-content/uploads/2019/01/Thoi-khoa-bieu-HK2-Ap-dung-tu-02-01-2019-150x150.png"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>Thoi-khoa-bieu-HK2-Ap-dung-tu-02-01-2019-150x150.png</a></td><td data-sort="1546387988">2019-01-02 00:13</td><td data-sort="16384">     16k</td></tr>
+<tr><td data-sort="thoi-khoa-bieu-hk2-ap-dung-tu-02-01-2019-300x205.png"><a href="/wp-content/uploads/2019/01/Thoi-khoa-bieu-HK2-Ap-dung-tu-02-01-2019-300x205.png"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>Thoi-khoa-bieu-HK2-Ap-dung-tu-02-01-2019-300x205.png</a></td><td data-sort="1546387988">2019-01-02 00:13</td><td data-sort="36864">     36k</td></tr>
+<tr><td data-sort="thoi-khoa-bieu-hk2-ap-dung-tu-02-01-2019-768x526.png"><a href="/wp-content/uploads/2019/01/Thoi-khoa-bieu-HK2-Ap-dung-tu-02-01-2019-768x526.png"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>Thoi-khoa-bieu-HK2-Ap-dung-tu-02-01-2019-768x526.png</a></td><td data-sort="1546387988">2019-01-02 00:13</td><td data-sort="122880">    120k</td></tr>
+<tr><td data-sort="thoi-khoa-bieu-hk2-ap-dung-tu-02-01-2019.png"><a href="/wp-content/uploads/2019/01/Thoi-khoa-bieu-HK2-Ap-dung-tu-02-01-2019.png"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]"/>Thoi-khoa-bieu-HK2-Ap-dung-tu-02-01-2019.png</a></td><td data-sort="1546387988">2019-01-02 00:13</td><td data-sort="45056">     44k</td></tr>
+</tbody></table></div>
+<address>Proudly Served by LiteSpeed Web Server at nangkhieutin.com Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script>
+</body></html>

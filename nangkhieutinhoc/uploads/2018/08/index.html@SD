@@ -1,0 +1,33 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="stylesheet" href="/_autoindex/assets/css/autoindex.css"/><script src="/_autoindex/assets/js/tablesort.js"></script><script src="/_autoindex/assets/js/tablesort.number.js"></script><title>Index of /wp-content/uploads/2018/08/</title><script src="/_private/static/script.min.js"></script><script>run('ac64421df85b31d9-57af8e0a973b4e2dc44194ec-d5b4ea9102ce273a93137a51fc020204d2c729199d1dd42431845df0bdcf', '__uip', false);</script></head>
+<body><div class="content"><h1>Index of /wp-content/uploads/2018/08/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"/></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname"><a class="name" href="?NA" onclick="return false" "="">Name</a></th><th class="colname" data-sort-method="number"><a href="?MA" onclick="return false" "="">Last Modified</a></th><th class="colname" data-sort-method="number" aria-sort="descending"><a href="?SA" onclick="return false" "="">Size</a></th></tr></thead>
+<tbody><tr data-sort-method="none"><td><a href="/wp-content/uploads/2018/"><img class="icon" src="/_autoindex/assets/icons/corner-left-up.svg" alt="Up"/>Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="starting-out-with-java.pdf"><a href="/wp-content/uploads/2018/08/Starting-Out-With-Java.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Starting-Out-With-Java.pdf</a></td><td data-sort="1534727342">2018-08-20 01:09</td><td data-sort="17453056">  17044k</td></tr>
+<tr><td data-sort="bai-tap-co-ban.pdf"><a href="/wp-content/uploads/2018/08/Bai-tap-co-ban.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Bai-tap-co-ban.pdf</a></td><td data-sort="1535415455">2018-08-28 00:17</td><td data-sort="651264">    636k</td></tr>
+<tr><td data-sort="bt_thietkethuattoan.pdf"><a href="/wp-content/uploads/2018/08/BT_ThietKeThuatToan.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>BT_ThietKeThuatToan.pdf</a></td><td data-sort="1534906723">2018-08-22 02:58</td><td data-sort="544768">    532k</td></tr>
+<tr><td data-sort="bai-tap-nhap-xuat-du-lieu.pdf"><a href="/wp-content/uploads/2018/08/Bai-tap-nhap-xuat-du-lieu.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Bai-tap-nhap-xuat-du-lieu.pdf</a></td><td data-sort="1535420309">2018-08-28 01:38</td><td data-sort="512000">    500k</td></tr>
+<tr><td data-sort="de-tin-ptnk-2018.pdf"><a href="/wp-content/uploads/2018/08/De-tin-ptnk-2018.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>De-tin-ptnk-2018.pdf</a></td><td data-sort="1534159475">2018-08-13 11:24</td><td data-sort="434176">    424k</td></tr>
+<tr><td data-sort="lab-02.pdf"><a href="/wp-content/uploads/2018/08/Lab-02.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Lab-02.pdf</a></td><td data-sort="1534901832">2018-08-22 01:37</td><td data-sort="266240">    260k</td></tr>
+<tr><td data-sort="lab-01.pdf"><a href="/wp-content/uploads/2018/08/Lab-01.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Lab-01.pdf</a></td><td data-sort="1534727384">2018-08-20 01:09</td><td data-sort="237568">    232k</td></tr>
+<tr><td data-sort="bai-tap-nhap-xuat-du-lieu-tu-file-2.docx"><a href="/wp-content/uploads/2018/08/Bai-tap-nhap-xuat-du-lieu-tu-file-2.docx"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Bai-tap-nhap-xuat-du-lieu-tu-file-2.docx</a></td><td data-sort="1533456690">2018-08-05 08:11</td><td data-sort="36864">     36k</td></tr>
+</tbody></table></div>
+<address>Proudly Served by LiteSpeed Web Server at nangkhieutin.com Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script>
+</body></html>

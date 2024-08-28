@@ -1,0 +1,32 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="stylesheet" href="/_autoindex/assets/css/autoindex.css"/><script src="/_autoindex/assets/js/tablesort.js"></script><script src="/_autoindex/assets/js/tablesort.number.js"></script><title>Index of /wp-content/uploads/2020/03/</title><script src="/_private/static/script.min.js"></script><script>run('8a1edabf2d7805ec-bc484ca08d2ac19ead376417-36b7bfb86741755b73db8e091c2c1ef689336eaa3732f2bd1692a2356c38', '__uip', false);</script></head>
+<body><div class="content"><h1>Index of /wp-content/uploads/2020/03/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"/></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname"><a class="name" href="?NA" onclick="return false" "="">Name</a></th><th class="colname" data-sort-method="number" aria-sort="ascending"><a href="?MD" onclick="return false" "="">Last Modified</a></th><th class="colname" data-sort-method="number"><a href="?SA" onclick="return false" "="">Size</a></th></tr></thead>
+<tbody><tr data-sort-method="none"><td><a href="/wp-content/uploads/2020/"><img class="icon" src="/_autoindex/assets/icons/corner-left-up.svg" alt="Up"/>Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="tài-liệu-giáo-khoa-chuyên-tin-quyển-1.pdf"><a href="/wp-content/uploads/2020/03/T%C3%A0i-li%E1%BB%87u-gi%C3%A1o-khoa-chuy%C3%AAn-tin-quy%E1%BB%83n-1.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Tài-liệu-giáo-khoa-chuyên-tin-quyển-1.pdf</a></td><td data-sort="1583403854">2020-03-05 10:24</td><td data-sort="2244608">   2192k</td></tr>
+<tr><td data-sort="tài-liệu-giáo-khoa-chuyên-tin-quyển-2-nxb-giáo-dục-2009-hồ-sĩ-Đàm-240-trang.pdf"><a href="/wp-content/uploads/2020/03/T%C3%A0i-Li%E1%BB%87u-Gi%C3%A1o-Khoa-Chuy%C3%AAn-Tin-Quy%E1%BB%83n-2-NXB-Gi%C3%A1o-D%E1%BB%A5c-2009-H%E1%BB%93-S%C4%A9-%C4%90%C3%A0m-240-Trang.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Tài-Liệu-Giáo-Khoa-Chuyên-Tin-Quyển-2-NXB-Giáo-Dục-2009-Hồ-Sĩ-Đ...</a></td><td data-sort="1583403880">2020-03-05 10:24</td><td data-sort="1904640">   1860k</td></tr>
+<tr><td data-sort="tài-liệu-giáo-khoa-chuyên-tin-quyển-3-nxb-giáo-dục-2011-hồ-sĩ-Đàm-172-trang.pdf"><a href="/wp-content/uploads/2020/03/T%C3%A0i-Li%E1%BB%87u-Gi%C3%A1o-Khoa-Chuy%C3%AAn-Tin-Quy%E1%BB%83n-3-NXB-Gi%C3%A1o-D%E1%BB%A5c-2011-H%E1%BB%93-S%C4%A9-%C4%90%C3%A0m-172-Trang.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Tài-Liệu-Giáo-Khoa-Chuyên-Tin-Quyển-3-NXB-Giáo-Dục-2011-Hồ-Sĩ-Đ...</a></td><td data-sort="1583404124">2020-03-05 10:28</td><td data-sort="30777344">  30056k</td></tr>
+<tr><td data-sort="programming-challenges.pdf"><a href="/wp-content/uploads/2020/03/Programming-Challenges.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Programming-Challenges.pdf</a></td><td data-sort="1583655520">2020-03-08 08:18</td><td data-sort="4620288">   4512k</td></tr>
+<tr><td data-sort="competitive-programming-3.pdf"><a href="/wp-content/uploads/2020/03/Competitive-Programming-3.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Competitive-Programming-3.pdf</a></td><td data-sort="1583655606">2020-03-08 08:20</td><td data-sort="18538496">  18104k</td></tr>
+<tr><td data-sort="theoryofgraph.pdf"><a href="/wp-content/uploads/2020/03/TheoryOfGraph.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>TheoryOfGraph.pdf</a></td><td data-sort="1583656020">2020-03-08 08:27</td><td data-sort="4841472">   4728k</td></tr>
+<tr><td data-sort="giai-thuat-va-lap-trinh.pdf"><a href="/wp-content/uploads/2020/03/Giai-thuat-va-lap-trinh.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Giai-thuat-va-lap-trinh.pdf</a></td><td data-sort="1583656119">2020-03-08 08:28</td><td data-sort="13258752">  12948k</td></tr>
+</tbody></table></div>
+<address>Proudly Served by LiteSpeed Web Server at nangkhieutin.com Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script>
+</body></html>

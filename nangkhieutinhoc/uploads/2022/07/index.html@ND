@@ -1,0 +1,31 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="stylesheet" href="/_autoindex/assets/css/autoindex.css"/><script src="/_autoindex/assets/js/tablesort.js"></script><script src="/_autoindex/assets/js/tablesort.number.js"></script><title>Index of /wp-content/uploads/2022/07/</title><script src="/_private/static/script.min.js"></script><script>run('90d85be157cebce0-63a651de18a260a2d3ce7986-0876ced040a806c5900758262ccf80e987706cc37c78a52e7565aa248818', '__uip', false);</script></head>
+<body><div class="content"><h1>Index of /wp-content/uploads/2022/07/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"/></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname" aria-sort="descending"><a class="name" href="?NA" onclick="return false" "="">Name</a></th><th class="colname" data-sort-method="number"><a href="?MA" onclick="return false" "="">Last Modified</a></th><th class="colname" data-sort-method="number"><a href="?SA" onclick="return false" "="">Size</a></th></tr></thead>
+<tbody><tr data-sort-method="none"><td><a href="/wp-content/uploads/2022/"><img class="icon" src="/_autoindex/assets/icons/corner-left-up.svg" alt="Up"/>Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="chuyên-đề-lca-1.pdf"><a href="/wp-content/uploads/2022/07/Chuy%C3%AAn-%C4%91%E1%BB%81-LCA-1.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Chuyên-đề-LCA-1.pdf</a></td><td data-sort="1658969848">2022-07-28 00:57</td><td data-sort="860160">    840k</td></tr>
+<tr><td data-sort="chuyen-de-segment-tree-4.pdf"><a href="/wp-content/uploads/2022/07/Chuyen-de-Segment-Tree-4.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Chuyen-de-Segment-Tree-4.pdf</a></td><td data-sort="1658359655">2022-07-20 23:27</td><td data-sort="983040">    960k</td></tr>
+<tr><td data-sort="chuyen-de-segment-tree-3.pdf"><a href="/wp-content/uploads/2022/07/Chuyen-de-Segment-Tree-3.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Chuyen-de-Segment-Tree-3.pdf</a></td><td data-sort="1657756518">2022-07-13 23:55</td><td data-sort="802816">    784k</td></tr>
+<tr><td data-sort="chuyen-de-segment-tree-3-1.pdf"><a href="/wp-content/uploads/2022/07/Chuyen-de-Segment-Tree-3-1.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Chuyen-de-Segment-Tree-3-1.pdf</a></td><td data-sort="1657757768">2022-07-14 00:16</td><td data-sort="798720">    780k</td></tr>
+<tr><td data-sort="chuyen-de-segment-tree-2.pdf"><a href="/wp-content/uploads/2022/07/Chuyen-de-Segment-Tree-2.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Chuyen-de-Segment-Tree-2.pdf</a></td><td data-sort="1657153128">2022-07-07 00:18</td><td data-sort="737280">    720k</td></tr>
+<tr><td data-sort="bài-toán-lowest-common-ancestor.pdf"><a href="/wp-content/uploads/2022/07/B%C3%A0i-to%C3%A1n-Lowest-Common-Ancestor.pdf"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File"/>Bài-toán-Lowest-Common-Ancestor.pdf</a></td><td data-sort="1658969946">2022-07-28 00:59</td><td data-sort="901120">    880k</td></tr>
+</tbody></table></div>
+<address>Proudly Served by LiteSpeed Web Server at nangkhieutin.com Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script>
+</body></html>
